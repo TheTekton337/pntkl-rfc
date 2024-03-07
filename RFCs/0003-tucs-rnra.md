@@ -1,4 +1,4 @@
-# Draft 3: Turing Universal Customization Standard for React and React-Native Applications (TUCS-RNRA)
+# Turing Universal Customization Standard for React and React-Native Applications (TUCS-RNRA)
 
 ## 1. Background
 
