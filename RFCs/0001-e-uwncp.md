@@ -18,7 +18,7 @@ The integration of web content within native mobile applications, particularly t
 
 ### 4.1 Message Structure
 
-The core message structure of E-UWNCP remains unchanged, designed to facilitate clear and structured communication across different contexts:
+The core message structure of E-UWNCP is designed to facilitate clear and structured communication across different contexts:
 
 ```json
 {
