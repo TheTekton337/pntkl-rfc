@@ -1,4 +1,3 @@
-```markdown
 # RFC: Universal Configuration Standard for React and React Native Applications (UCS-RNRA)
 
 ## 1. Introduction
