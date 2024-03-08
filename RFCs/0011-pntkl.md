@@ -1,4 +1,4 @@
-# RFC: pntkl - A React Native Application for Managing Custom Apps
+# pntkl - A React Native Application for Managing Custom Apps
 
 ## 1. Introduction
 
