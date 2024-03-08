@@ -1,16 +1,16 @@
-# RFC: Development and Customization Toolkit for React and React-Native Applications (DCTK-RNRA)
+# Development and Customization Toolkit for React and React-Native Applications (DCTK-RNRA)
 
 ## 1. Introduction
 
-Building upon the foundations laid by the Enhanced Universal Web-Native Communication Protocol (E-UWNCP), Universal Configuration Standard for React and React Native Applications (UCS-RNRA), and Turing Universal Customization Standard for React and React-Native Applications (TUCS-RNRA), this RFC introduces the Development and Customization Toolkit for React and React-Native Applications (DCTK-RNRA). DCTK-RNRA is designed to streamline the processes of user code editing, debugging, and execution within the E-UWNCP and UCS-RNRA frameworks, and to enhance user configurability and customization as envisioned in TUCS-RNRA. The toolkit aims to provide developers and end-users with a comprehensive set of tools for creating, testing, and integrating custom functionalities and configurations into React and React-Native applications.
+Building upon the foundations laid by the Communication Protocol for React and React Native Applications (CP-RNRA), Universal Configuration Standard for React and React Native Applications (UCS-RNRA), and Turing Universal Customization Standard for React and React-Native Applications (TUCS-RNRA), this RFC introduces the Development and Customization Toolkit for React and React-Native Applications (DCTK-RNRA). DCTK-RNRA is designed to streamline the processes of user code editing, debugging, and execution within the CP-RNRA and UCS-RNRA frameworks, and to enhance user configurability and customization as envisioned in TUCS-RNRA. The toolkit aims to provide developers and end-users with a comprehensive set of tools for creating, testing, and integrating custom functionalities and configurations into React and React-Native applications.
 
 ## 2. Background
 
-The evolution of web and mobile applications towards more dynamic and customizable platforms necessitates advanced tooling that can support both developers and end-users in their efforts to modify and enhance software. The introduction of protocols and standards such as E-UWNCP, UCS-RNRA, and TUCS-RNRA marked significant steps forward in this direction. However, the realization of their full potential is contingent upon the availability of a robust toolkit that bridges the gap between advanced customization capabilities and user accessibility. DCTK-RNRA is proposed to meet this need by offering an integrated environment for development and customization activities.
+The evolution of web and mobile applications towards more dynamic and customizable platforms necessitates advanced tooling that can support both developers and end-users in their efforts to modify and enhance software. The introduction of protocols and standards such as CP-RNRA, UCS-RNRA, and TUCS-RNRA marked significant steps forward in this direction. However, the realization of their full potential is contingent upon the availability of a robust toolkit that bridges the gap between advanced customization capabilities and user accessibility. DCTK-RNRA is proposed to meet this need by offering an integrated environment for development and customization activities.
 
 ## 3. Objectives
 
-- To provide an integrated development environment (IDE) toolkit that supports the editing, debugging, and execution of user code within E-UWNCP and UCS-RNRA frameworks.
+- To provide an integrated development environment (IDE) toolkit that supports the editing, debugging, and execution of user code within CP-RNRA and UCS-RNRA frameworks.
 - To facilitate end-user customization and configuration in line with TUCS-RNRA, enhancing user engagement and application personalization.
 - To ensure high usability and accessibility of customization tools for both developers and non-technical end-users.
 - To promote best practices in code security, performance optimization, and application integrity within the customization process.

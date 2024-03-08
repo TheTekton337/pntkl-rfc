@@ -8,7 +8,7 @@ The shift towards customizable applications reflects a broader trend in software
 
 - Facilitate a secure and accessible platform for end-users to contribute custom code to React and React-Native applications.
 - Provide clear guidelines and tools for safely integrating user-provided code, ensuring application security and performance are maintained.
-- Establish a vibrant community ecosystem where users can share, discover, and leverage customizations made by others.
+- Design a platform where users can share, discover, and leverage each other's customizations, driving collective innovation and personalization.
 
 ## 3. Implementation
 
@@ -71,7 +71,7 @@ Looking ahead, TUCS-RNRA aims to further expand its impact and foster a more dyn
 - **Advanced Security Measures**: Continue to enhance security measures, including more sophisticated sandboxing techniques and automated code review processes, to ensure user-provided code remains safe and trustworthy.
 - **Developer Tools and Documentation**: Develop more comprehensive tools, SDKs, and documentation to lower the barrier to entry for users wishing to create customizations, making it easier for non-experts to participate.
 - **AI-Assisted Customization**: Leverage AI and machine learning to assist users in code generation, error detection, and optimization, streamlining the customization process.
-- **Community Engagement and Feedback**: We encourage the developer community to actively contribute to the evolution of E-UWNCP. Feedback, suggestions, and contributions can be directed to our GitHub repository [E-UWNCP](https://www.github.com/TheTekton337/E-UWNCP), where discussions and updates on the protocol will be hosted. Your insights and experiences are invaluable in refining and extending E-UWNCP to meet the diverse needs of the development community.
+- **Community Engagement and Feedback**: We encourage the developer community to actively contribute to the evolution of CP-RNRA. Feedback, suggestions, and contributions can be directed to our GitHub repository [pntkl-rfc](https://www.github.com/TheTekton337/pntkl-rfc), where discussions and updates on the protocol will be hosted. Your insights and experiences are invaluable in refining and extending CP-RNRA to meet the diverse needs of the development community.
 
 By pursuing these future directions, TUCS-RNRA will continue to enrich the React and React-Native ecosystems, promoting a culture of innovation, personalization, and inclusivity in software development.
 
