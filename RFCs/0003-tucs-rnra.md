@@ -2,7 +2,7 @@
 
 ## 1. Background
 
-The shift towards customizable applications reflects a broader trend in software development that prioritizes user experience and personalization. TUCS-RNRA builds upon this trend by enabling end-users to extend and customize React and React-Native applications through user-provided code, drawing inspiration from Alan Turing's vision of a universal computing engine. This approach not only enhances user engagement but also taps into the collective creativity of the user base to drive innovation within the application ecosystem.
+The shift towards customizable applications reflects a broader trend in software development that prioritizes user experience and personalization. TUCS-RNRA enables end-users to extend and customize React and React-Native applications through user-provided code. It specifically focuses on the customization aspects, leveraging the foundational communication protocols established by CP-RNRA to enhance user engagement and drive innovation within the application ecosystem.
 
 ## 2. Objectives
 
