@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-This User Interface and Experience Design Guidelines for User Customizations (UIXDG-RNRA) document builds upon the established frameworks of the Communication Protocol for React and React Native Applications (CP-RNRA), Application Configuration Standard for React and React Native Applications (ACS-RNRA), Turing Universal Customization Standard for React and React-Native Applications (TUCS-RNRA), and Development and Customization Toolkit for React and React-Native Applications (DCTK-RNRA). It specifically addresses the UI/UX design considerations for user customizations within React and React-Native applications, detailing the support and standards base application developers should provide to facilitate high-quality user customization experiences.
+This User Interface and Experience Design Guidelines for User Customizations (UIXDG-RNRA) document builds upon the established frameworks of the Communication Protocol with Turbo Module Integration for React and React Native Applications (CP-RNRA), Application Configuration Standard for React and React Native Applications (ACS-RNRA), Turing Universal Customization Standard for React and React-Native Applications (TUCS-RNRA), and Development and Customization Toolkit for React and React-Native Applications (DCTK-RNRA). It specifically addresses the UI/UX design considerations for user customizations within React and React-Native applications, detailing the support and standards base application developers should provide to facilitate high-quality user customization experiences.
 
 ## 2. Background
 

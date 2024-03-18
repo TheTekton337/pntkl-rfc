@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-Complementing the Communication Protocol for React and React Native Applications (CP-RNRA), Application Configuration Standard for React and React Native Applications (ACS-RNRA), Turing Universal Customization Standard for React and React-Native Applications (TUCS-RNRA), and Development and Customization Toolkit for React and React-Native Applications (DCTK-RNRA), this document focuses on the Application Lifecycle Management for User Customizations in React and React-Native Applications (ALM-RNRA). It outlines the lifecycle management of user customizations, detailing the processes and standards necessary for their development, deployment, maintenance, and retirement, specifically focusing on the support required from base application developers.
+Complementing the Communication Protocol with Turbo Module Integration for React and React Native Applications (CP-RNRA), Application Configuration Standard for React and React Native Applications (ACS-RNRA), Turing Universal Customization Standard for React and React-Native Applications (TUCS-RNRA), and Development and Customization Toolkit for React and React-Native Applications (DCTK-RNRA), this document focuses on the Application Lifecycle Management for User Customizations in React and React-Native Applications (ALM-RNRA). It outlines the lifecycle management of user customizations, detailing the processes and standards necessary for their development, deployment, maintenance, and retirement, specifically focusing on the support required from base application developers.
 
 ## 2. Background
 
