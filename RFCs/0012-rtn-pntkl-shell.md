@@ -1,4 +1,4 @@
-# pntkl-shell - Cross-Platform Shell Environment Integration for React Native with iSHKit and TermuxKit
+# rtn-pntkl-shell - Cross-Platform Shell Environment Integration for React Native with iSHKit and TermuxKit
 
 ## 1. Introduction
 
@@ -48,7 +48,7 @@ Expose customizable properties for the React Native components within `pntkl-she
 ## 5. Implementation
 
 - **iOS (iSHKit)** and **Android (TermuxKit)**: Develop asynchronous script execution, secure code execution environments, and communication protocols.
-- **React Native (`pntkl-shell` module)**: Integrate a turbo module and accompanying React components to offer a unified interface to the underlying native functionalities, complete with an event emission system and customizable component props.
+- **React Native (`rtn-pntkl-shell` module)**: Integrate a turbo module and accompanying React components to offer a unified interface to the underlying native functionalities, complete with an event emission system and customizable component props.
 
 ## 6. Security Considerations
 
@@ -62,7 +62,7 @@ Emphasize rigorous security protocols to safeguard the application and user data
 
 ## 8. Conclusion
 
-Integrating shell environment capabilities into React Native applications heralds a new era of mobile app development, characterized by enhanced performance, dynamic content delivery, and extensive customization options. The development of `pntkl-shell`, in conjunction with iSHKit and TermuxKit, and the integration with the Native-Bundler-RNRA for in-app bundling, marks a significant milestone in realizing this vision, promising a future where mobile applications are more interactive, adaptable, and powerful.
+Integrating shell environment capabilities into React Native applications heralds a new era of mobile app development, characterized by enhanced performance, dynamic content delivery, and extensive customization options. The development of `rtn-pntkl-shell`, in conjunction with iSHKit and TermuxKit, and the integration with the Native-Bundler-RNRA for in-app bundling, marks a significant milestone in realizing this vision, promising a future where mobile applications are more interactive, adaptable, and powerful.
 
 ## Appendix: API Documentation
 
