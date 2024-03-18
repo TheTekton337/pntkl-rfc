@@ -31,7 +31,7 @@ The shift towards customizable applications reflects a broader trend in software
 
 ### 3.2 Sandbox Execution Environment
 
-To securely execute user-provided code within the application, employing a sandboxed environment is critical. This can be achieved through the use of WebAssembly or JavaScript sandboxes, which isolate the custom code from the main application, minimizing the risk of security vulnerabilities.
+To securely execute user-provided code within the application, employing a sandboxed environment is critical, as detailed in the CP-RNRA. TUCS-RNRA leverages the communication protocols defined in CP-RNRA to ensure secure and isolated execution of custom code, minimizing the risk of security vulnerabilities.
 
 #### 3.2.1 Suggestion for Use of CodeSandbox's Sandpack
 

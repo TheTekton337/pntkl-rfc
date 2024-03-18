@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-This initial version of the Communication Protocol with Turbo Module Integration for React and React Native Applications (CP-RNRA) incorporates the integration with React Native's Turbo Modules, emphasizing a standardized, efficient communication strategy for web content and native applications. By leveraging the capabilities of Turbo Modules, the protocol facilitates direct and typed data passing, optimizing performance and enhancing the user experience in React Native applications.
+This initial version of the Communication Protocol with Turbo Module Integration for React and React Native Applications (CP-RNRA) emphasizes a standardized, efficient communication strategy for web content and native applications. It serves as the foundation for any communication needs within the React and React Native ecosystem, including but not limited to user customizations as detailed in the TUCS-RNRA.
 
 ## 2. Background
 
@@ -314,7 +314,7 @@ Regardless of the communication method, implement measures to validate and sanit
 
 ## 7. Conclusion
 
-The Enhanced Universal Web-Native Communication Protocol (CP-RNRA), with its integration of Turbo Modules, represents a pivotal advancement in the field of React Native development. By facilitating efficient, structured communication between web content and native functionalities, CP-RNRA addresses a critical need within the developer community for a standardized, high-performance protocol that bridges the gap between web and native ecosystems.
+The Communication Protocol with Turbo Module Integration for React and React Native Applications (CP-RNRA) represents a pivotal advancement in the field of React Native development. It serves as the core protocol for efficient, structured communication within the React and React Native ecosystem, supporting a wide range of use cases including user customizations as outlined in the TUCS-RNRA.
 
 ### 7.1 Achievements of CP-RNRA
 
