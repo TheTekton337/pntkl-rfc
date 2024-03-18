@@ -42,4 +42,4 @@ The convergence of mobile applications with traditional computing capabilities n
 
 ## 7. Conclusion
 
-rtn-pntkl-shell represents a significant step forward in the integration of shell environments within React Native applications. By providing a cross-platform, secure, and performant module, developers can enhance their applications with powerful scripting and command execution capabilities, bridging the gap between mobile and traditional computing.
+rtn-pntkl-shell represents a significant step forward in the integration of shell environments within React Native applications. By providing a cross-platform, secure, and performant module, and integrating with the Native-Bundler-RNRA for in-app bundling, developers can enhance their applications with powerful scripting and command execution capabilities, bridging the gap between mobile and traditional computing.

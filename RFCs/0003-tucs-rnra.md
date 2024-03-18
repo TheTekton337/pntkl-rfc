@@ -51,7 +51,7 @@ Integrating Sandpack into the TUCS-RNRA framework provides a secure, user-friend
 
 ## 5. Conclusion
 
-By embracing the principles outlined in TUCS-RNRA, React and React-Native applications can unlock a new dimension of customization and user engagement. Through a combination of in-app editing, shared modules, and secure execution environments, TUCS-RNRA provides a comprehensive framework for integrating user-provided code into applications. This initiative not only honors Alan Turing's legacy but also empowers users to shape their software environment, fostering a rich ecosystem of community-driven innovation.
+By embracing the principles outlined in TUCS-RNRA, React and React-Native applications can unlock a new dimension of customization and user engagement. Through a combination of in-app editing, shared modules, secure execution environments, and the capabilities provided by the Native-Bundler-RNRA for in-app code bundling, TUCS-RNRA provides a comprehensive framework for integrating user-provided code into applications. This initiative not only honors Alan Turing's legacy but also empowers users to shape their software environment, fostering a rich ecosystem of community-driven innovation.
 
 ### 5.1 Achievements of TUCS-RNRA
 

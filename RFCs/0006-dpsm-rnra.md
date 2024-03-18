@@ -54,4 +54,4 @@ With applications increasingly supporting user customizations for enhanced adapt
 
 ## 7. Conclusion
 
-DPSM-RNRA provides a comprehensive framework for effective and secure management of state and data within user customizations, enhancing the overall ecosystem of React and React-Native applications. By adopting these guidelines, base application developers can support customization developers in creating more engaging and persistent user experiences.
+DPSM-RNRA provides a comprehensive framework for effective and secure management of state and data within user customizations, enhancing the overall ecosystem of React and React-Native applications. The introduction of the Native-Bundler-RNRA further enriches this framework by ensuring that the state and data associated with in-app bundling processes are managed with the same level of effectiveness and security. By adopting these guidelines, base application developers can support customization developers in creating more engaging and persistent user experiences.

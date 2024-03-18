@@ -120,4 +120,4 @@ Follow the CP-RNRA's guidelines on security and efficiency to ensure safe, perfo
 
 ## 6. Conclusion
 
-The proposed Universal Configuration Standard for React and React Native Applications leverages the strengths of CP-RNRA to offer a structured, efficient, and secure method for passing configuration data across web and native boundaries. By adhering to this standard, developers can ensure that components are configured consistently, irrespective of the platform, enhancing both developer experience and application performance.
+The proposed Application Configuration Standard for React and React Native Applications leverages the strengths of CP-RNRA to offer a structured, efficient, and secure method for passing configuration data across web and native boundaries. By adhering to this standard, developers can ensure that components are configured consistently, irrespective of the platform, enhancing both developer experience and application performance. With the introduction of the Native-Bundler-RNRA, this standard also encompasses the in-app bundling of configurations, further streamlining the customization process for users and developers alike.

@@ -85,4 +85,4 @@ As applications become increasingly modular and customizable, there is a growing
 
 ## 8. Conclusion
 
-The pntkl application represents a significant step forward in enabling users to manage their custom applications and customizations efficiently. By providing a seamless integration between a React Native app and a web-based IDE, pntkl empowers users to create, edit, and manage their custom apps with ease, fostering innovation and personalization within the React and React-Native ecosystem.
+The pntkl application represents a significant step forward in enabling users to manage their custom applications and customizations efficiently. By providing a seamless integration between a React Native app and a web-based IDE, and incorporating the Native-Bundler-RNRA for in-app bundling, pntkl empowers users to create, edit, and manage their custom apps with ease, fostering innovation and personalization within the React and React-Native ecosystem.

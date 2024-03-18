@@ -50,4 +50,4 @@ As applications evolve to become more flexible and personalized, there is a grow
 
 ## 8. Conclusion
 
-The pntkl-editor represents a significant advancement in enabling user-driven customizations within React-Native applications, providing a powerful, integrated environment for customization development. By leveraging proven technologies such as react-codemirror and CodeSandbox's Sandpack, and adhering to established communication protocols, the pntkl-editor aims to enhance the flexibility, personalization, and user engagement of React-Native applications.
+The pntkl-editor represents a significant advancement in enabling user-driven customizations within React-Native applications, providing a powerful, integrated environment for customization development. By leveraging proven technologies such as react-codemirror and CodeSandbox's Sandpack, adhering to established communication protocols, and integrating with the Native-Bundler-RNRA for in-app bundling capabilities, the pntkl-editor aims to enhance the flexibility, personalization, and user engagement of React-Native applications.

@@ -62,7 +62,7 @@ Emphasize rigorous security protocols to safeguard the application and user data
 
 ## 8. Conclusion
 
-Integrating shell environment capabilities into React Native applications heralds a new era of mobile app development, characterized by enhanced performance, dynamic content delivery, and extensive customization options. The development of `pntkl-shell`, in conjunction with iSHKit and TermuxKit, marks a significant milestone in realizing this vision, promising a future where mobile applications are more interactive, adaptable, and powerful.
+Integrating shell environment capabilities into React Native applications heralds a new era of mobile app development, characterized by enhanced performance, dynamic content delivery, and extensive customization options. The development of `pntkl-shell`, in conjunction with iSHKit and TermuxKit, and the integration with the Native-Bundler-RNRA for in-app bundling, marks a significant milestone in realizing this vision, promising a future where mobile applications are more interactive, adaptable, and powerful.
 
 ## Appendix: API Documentation
 

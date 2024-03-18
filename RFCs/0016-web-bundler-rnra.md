@@ -42,4 +42,4 @@ React Native developers often need to integrate web applications into their mobi
 
 ## 7. Conclusion
 
-The Web-Bundler-RNRA represents a critical tool for React Native developers, filling a gap in the current ecosystem by providing a dedicated bundling solution for web applications. With an eye towards future capabilities, this component will enhance the development experience and expand the possibilities for content integration within React Native applications.
+The Web-Bundler-RNRA represents a critical tool for React Native developers, filling a gap in the current ecosystem by providing a dedicated bundling solution for web applications. With the introduction of the Native-Bundler-RNRA, the capabilities of the Web-Bundler-RNRA are further expanded to support in-app bundling of React Native code as well. This enhancement will broaden the development experience and expand the possibilities for content integration within React Native applications.

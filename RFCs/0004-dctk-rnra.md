@@ -67,4 +67,4 @@ With features supporting collaborative editing and version control, teams can wo
 
 ## 6. Conclusion
 
-DCTK-RNRA represents a holistic approach to enhancing the development, customization, and configuration capabilities within React and React-Native applications. By providing a robust set of tools for code editing, debugging, execution, and collaboration, this toolkit aims to empower developers and end-users alike, enabling them to tailor applications to their unique needs and preferences while maintaining high standards of security and performance.
+DCTK-RNRA represents a holistic approach to enhancing the development, customization, and configuration capabilities within React and React-Native applications. By providing a robust set of tools for code editing, debugging, execution, and collaboration, and integrating with the Native-Bundler-RNRA for in-app bundling, this toolkit aims to empower developers and end-users alike, enabling them to tailor applications to their unique needs and preferences while maintaining high standards of security and performance.

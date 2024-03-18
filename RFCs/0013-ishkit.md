@@ -47,4 +47,4 @@ The need for advanced scripting and command execution capabilities within mobile
 
 ## 7. Conclusion
 
-The introduction of iSHKit represents a significant advancement in the capabilities of React Native applications on iOS. By providing direct access to a Linux shell environment, developers can unlock new levels of functionality and automation within their applications, driving innovation and user satisfaction.
+The introduction of iSHKit represents a significant advancement in the capabilities of React Native applications on iOS. By providing direct access to a Linux shell environment and integrating with the Native-Bundler-RNRA for in-app bundling, developers can unlock new levels of functionality and automation within their applications, driving innovation and user satisfaction.
