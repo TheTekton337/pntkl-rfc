@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-This RFC proposes an Application Configuration Standard for React and React Native Applications (ACS-RNRA) to ensure a seamless, efficient, and standardized approach for passing configuration data between React and React Native applications. Leveraging the Enhanced Universal Web-Native Communication Protocol (CP-RNRA), this standard focuses on optimizing the configuration and setup of React components and their equivalents in React Native through a unified, structured data format.
+This RFC proposes an Application Configuration Standard for React and React Native Applications (ACS-RNRA) to ensure a seamless, efficient, and standardized approach for passing configuration data between React and React Native applications. Leveraging the Communication Protocol with Turbo Module Integration for React and React Native Applications (CP-RNRA), this standard focuses on optimizing the configuration and setup of React components and their equivalents in React Native through a unified, structured data format.
 
 ## 2. Background
 
@@ -44,7 +44,7 @@ Configuration objects should be passed during appropriate lifecycle events, as i
 
 To pass a configuration object from a React Native application to a React web component (or vice versa), utilize the direct and typed data passing capabilities provided by Turbo Modules:
 
-**React Native Example:**
+**React Native Example (Using Turbo Modules):**
 
 ```javascript
 import { NativeModules } from 'react-native';
